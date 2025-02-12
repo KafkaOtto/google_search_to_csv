@@ -1,10 +1,7 @@
-# Google2Csv
+# Using Google Search APi To Convert Results to Excel
 [![Colab badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psalias2006/Google2Csv/blob/master/Google2Csv.ipynb)
 
-This is a dead simple tutorial on how to scrape google using BeautifulSoup and save the results on a csv/xlsx/jsonl file
-
-
-![alt text](https://i.imgur.com/G8acZQf.png)
+Create config.ini, Replace ceontents in config_dev.ini, and copy the content to config.ini
 
 
 ## License
