@@ -33,7 +33,7 @@ def google_search(query, or_terms, page=1):
         print(f"Error Msg: {response.reason}")
         return None
 
-def save_to_csv(results, filename='google_search_results_exclude_optimize.csv'):
+def save_to_csv(results, filename='google_search_result_0219.csv'):
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['Title', 'Link', 'Snippet'])  # Write header
